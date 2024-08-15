@@ -1,7 +1,9 @@
 # Real Estate Price Prediction Project Report
 
-1. Introduction
-1.1 Project Overview
+### 1. Introduction <br>
+
+#### 1.1 Project Overview <br>
+
 This project focuses on predicting real estate prices in the USA using various regression models. The goal is to evaluate different models, including traditional linear models and advanced ensemble methods, to determine which provides the most accurate predictions of property prices based on a range of features.
 1.2 Data Collection
 The raw Real Estate data was downloaded from Kaggle (link provided in Appendices).
